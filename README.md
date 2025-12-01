@@ -305,30 +305,3 @@ console.log(localStorage.getItem("weatherAppState"));
 }
 ```
 
-## 👥 Team & Credits
-
-**Weather Dashboard Pro** is maintained by:
-
-- **Lead Developer**: [Your Name]
-- **UI/UX Design**: [Designer Name]
-- **QA Testing**: [Tester Name]
-- **Documentation**: [Technical Writer]
-
-### **Acknowledgments**
-- Weather data provided by [WeatherAPI.com](https://www.weatherapi.com/)
-- Icons by [Font Awesome](https://fontawesome.com/)
-- Design patterns from modern dashboard interfaces
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support & Contact
-
-**Technical Support**: support@weatherdashboard.example.com  
-**Documentation**: [docs.weatherdashboard.example.com](https://docs.example.com)  
-**GitHub Issues**: [Report a Bug](https://github.com/yourusername/weather-dashboard-pro/issues)  
-**Feature Requests**: [Suggest a Feature](https://github.com/yourusername/weather-dashboard-pro/issues/new)
-
-
-
