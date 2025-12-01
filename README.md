@@ -350,5 +350,3 @@ This dashboard is **battle-tested** and ready for:
 
 ---
 
-*Version: 1.0.0 | Last Updated: November 2024*  
-*Weather Dashboard Pro - Enterprise Weather Monitoring Solution*
